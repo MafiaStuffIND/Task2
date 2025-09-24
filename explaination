@@ -1,0 +1,21 @@
+the image of sample email is attached
+when checking the email address it was clear that it was different from citi bank official customer mail.
+it was clear case of spoofing 
+further i checked header it was also a sign of spoofing
+now i checked the link 
+the link was https://secure.citibank-verification.com
+but the real bank link will end as .citibank.com not verification.com
+there werent any grammar or speeling mistake but there was error like
+it stated your account rather than name plus
+Phrases like “suspicious activity” and “confirm your identity” are classic phishing red flags
+quick summary of phishing traits in this email:
+Suspicious Sender Address
+Support@Citibanksecuremygateway.com is not an official Citibank domain.
+Urgent / Fear Tactic
+Subject: “Suspicious Activity” creates panic to force quick action.
+Suspicious Link
+https://secure.citibank-verification.com looks like Citibank but is actually a fake domain.
+Generic Greeting / Message
+No personal name, just “your account”. Legit banks usually address you directly.
+Vague Content
+Doesn’t explain what the suspicious activity is.
